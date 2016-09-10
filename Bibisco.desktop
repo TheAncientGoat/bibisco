@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment[en_SG]=Simple Novel Writer
+Comment=Simple Novel Writer
+Exec=/usr/share/bibisco/bibisco
+GenericName[en_SG]=
+GenericName=
+Icon=/usr/share/icons/128x128/apps/bibisco.png
+MimeType=
+Name[en_SG]=Bibisco
+Name=Bibisco
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=Office;
